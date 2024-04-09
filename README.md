@@ -11,6 +11,7 @@ First, use the tasklist command to view the processes running on the Windows ser
 ## method
 
 ```bash
+cargo build 
 RCheckAV.exe
 ```
 
